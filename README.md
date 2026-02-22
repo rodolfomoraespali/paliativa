@@ -12,7 +12,6 @@ A página foi desenvolvida para ser uma vitrine profissional, responsiva e diret
 * **Hero (Início):** Apresentação de impacto com imagem de fundo e overlay transparente, destacando o propósito da consultoria.
 * **Nossos Serviços:** Detalhamento das frentes de atuação (Capacitação, Implementação, Protocolos, Indicadores).
 * **Métodos de Trabalho:** Como a consultoria é aplicada na prática (Aulas, Casos Clínicos, Treinamentos, etc.).
-* **Pilares:** Os valores fundamentais da PaliAtiva (Ciência, Empatia e Censo Prático).
 * **Quem Conduz:** Perfil do Dr. Rodolfo Moraes, suas credenciais médicas e vasto portfólio de experiência em estruturação de serviços de saúde.
 * **Fale Conosco:** Formulário de contato dinâmico que gera uma mensagem formatada e envia direto para o WhatsApp comercial.
 
